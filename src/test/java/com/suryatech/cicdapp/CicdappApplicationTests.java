@@ -10,7 +10,7 @@ class CicdappApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals("Testing","Test","Test");
+		assertEquals("Testing123","Test","Test");
 	}
 
 }
